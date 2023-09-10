@@ -1,2 +1,2 @@
-# CSE470 Movie Streaming Service Using MERN and Firebase
+# CSE470 (Software Engineering) Movie Streaming Service Using MERN and Firebase
 Follows MVC Architecture
